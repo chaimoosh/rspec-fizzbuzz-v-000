@@ -6,6 +6,7 @@ def fizzbuzz(int)
       puts "Buzz"
       ifelse
         int % 3 == 0 & int % 5 == 0
-        puts "fizz"
+        puts "FizzBuzz"
+      else
   
 end
